@@ -25,6 +25,8 @@ alaa-gehad-6173022a0
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart%20-05122A?style=flat&logo=Dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter%20-05122A?style=flat&logo=Flutter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
